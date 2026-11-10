@@ -1,5 +1,15 @@
+data/
 .venv/
-data/raw/
 __pycache__/
-*.pyc
-data/raw/
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# Large data files
+data/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
